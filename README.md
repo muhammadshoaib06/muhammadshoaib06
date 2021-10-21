@@ -2,12 +2,24 @@
  
  
 <h3 align="center"> Mobile Applicaiton Devloper | Flutter Devloper | Android Devloper &nbsp; :computer: </h3>
+</br>
+<p> :point_right:  &nbsp; I'm from Pakistan. &nbsp; :relaxed: </p>
+<p> :point_right:  &nbsp; Writing Code that Human's Can Understand! &nbsp; :relaxed: </p>
+<p> :point_right:  &nbsp; I'm Currently Learning Flutter and also hands on Native Platform (Android  & iOS) &nbsp; :relaxed: </p>
 
-### Connect With Me
+</br>
+
+### Stay With Me
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammad-shoaib-flutter-dev/" target="_blank">
-<img alt="Profile" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="42" height="42" style="vertical-align:center">
+<img alt="Profile LinkedIn" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="42" height="42" style="vertical-align:center">
 </a>&nbsp;&nbsp; <a href="https://www.facebook.com/muhammadshoaib06" target="_blank">
-<img alt="Profile" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="42" height="42" style="vertical-align:center">
-</a>
+<img alt="Profile Facebook" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" width="42" height="42" style="vertical-align:center">
+</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammad-shoaib-flutter-dev/" target="_blank">
+<img alt="Profile Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="42" height="42" style="vertical-align:center">
+</a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammad-shoaib-flutter-dev/" target="_blank">
+<img alt="Profile Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="42" height="42" style="vertical-align:center">
+</a>&nbsp;&nbsp;  
 
-## Happy Fluttering !! ❤
+
+
+<h2> Happy Fluttering !! ❤ </h2>
