@@ -4,10 +4,10 @@
 <h3 align="center"> Mobile Applicaiton Devloper | Flutter Devloper | Android Devloper &nbsp; :computer: </h3>
 </br>
 <h4 align="right">Lower Dir, Khyber Pakhtunkhwa Pakistan</h4>
-<p> :point_right:  &nbsp; Writing Code that Human's Can Understand! &nbsp; :relaxed: </p>
+<!-- <p> :point_right:  &nbsp; Writing Code that Human's Can Understand! &nbsp; :relaxed: </p>
 <p> :point_right:  &nbsp; I'm Currently Working as a <b> Flutter Developer </b> at <strong> JMM Technologies Ltd Abbottabad, Pakistan </strong> 
  <p> :point_right:  &nbsp; Also hands on Native Platform (Android  & iOS) &nbsp; :relaxed: </p>
-
+ -->
 </br>
 
 ### Stay With Me
