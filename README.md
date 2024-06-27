@@ -1,12 +1,12 @@
-<h1 align="center">Hey!! &nbsp;:wave: &nbsp; <strong> I`m Muhammad Shoaib </strong> :bust_in_silhouette: </h1>
+<h1 align="center">Hey!! &nbsp; :wave: &nbsp; <strong> I`m Muhammad Shoaib </strong> :bust_in_silhouette: </h1>
  
  
-<h3 align="center"> Mobile Applicaiton Devloper | Sr. Flutter Devloper | FlutterFlow Expert &nbsp; :computer: </h3>
+<h3 align="center"> Mobile Application Developer | Sr. Flutter Developer | FlutterFlow Expert &nbsp; :computer: </h3>
 </br>
 <h4 align="right">Lower Dir, Khyber Pakhtunkhwa Pakistan</h4>
-<p> :point_right:  &nbsp; Writing Code that Human's Can Understand! &nbsp; :relaxed: </p>
+<h1> :point_right:  &nbsp; Writing Code that Human's Can Understand! &nbsp; :relaxed: </h1>
 <p> :point_right:  &nbsp; I'm Currently Working as a <b> Sr. Flutter Developer </b> at <strong> CloudLaunch UK, (Remote) </strong> 
- <p> :point_right:  &nbsp; Seasoned senior Flutter developer passionate about crafting cutting-edge mobile
+ <p> Seasoned senior Flutter developer passionate about crafting cutting-edge mobile
 applications. Over 3 years of hands-on experience, demonstrating a strong proficiency in
 Flutter framework and a knack for solving complex problems. A collaborative team player, I
 excel in leading projects from concept to completion, ensuring optimal functionality and user
